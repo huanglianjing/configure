@@ -1,2 +1,2 @@
-# my configure
-[vim](vim.txt)
+# configure
+* [vim](vim.txt)
