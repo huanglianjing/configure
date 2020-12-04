@@ -1,3 +1,3 @@
 # configure
-Some configure I used.
+Share some configure I used.
 * [vim](vim.txt)
