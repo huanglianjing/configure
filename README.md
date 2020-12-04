@@ -1,2 +1,2 @@
-# Some configure I used.
+# my configure
 [vim](vim.txt)
