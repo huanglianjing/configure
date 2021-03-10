@@ -1,7 +1,9 @@
 Add to **~/.bashrc**:
 ```
 alias l='ls -l'
+#alias l='ls -lG' # for mac os
 alias la='ls -la'
+#alias la='ls -laG' # for mac os
 alias vi='vim'
-export PS1='\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$ '
+export PS1='\[\e[1;32m\]\u\[\e[m\]@\[\e[1;32m\]\h\[\e[m\]:\[\e[44m\]\w\[\e[m\]$ '
 ```
