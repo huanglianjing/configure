@@ -4,7 +4,7 @@
 	"drag_text": false,
 	"draw_white_space": "all",
 	"font_face": "Microsoft Yahei Mono",
-	"font_size": 10,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
