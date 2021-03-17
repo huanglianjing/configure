@@ -1,4 +1,4 @@
-Add to **~/.bashrc**:
+Add to **/etc/profile** for all user, or **~/.bashrc** for current user:
 ```
 alias l='ls -l'
 #alias l='ls -lG' # for mac os
