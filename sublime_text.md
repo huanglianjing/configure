@@ -18,6 +18,7 @@
 	"scroll_past_end": true,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": false,
+	"show_tab_close_buttons": false,
 	"update_check": false
 }
 ```

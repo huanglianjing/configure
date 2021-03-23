@@ -5,5 +5,5 @@ alias l='ls -l'
 alias la='ls -la'
 #alias la='ls -laG' # for mac os
 alias vi='vim'
-export PS1='\[\e[1;32m\]\u\[\e[m\]@\[\e[1;32m\]\H\[\e[m\]:\[\e[44m\]\w\[\e[m\]$ '
+export PS1="\[\e[32m\]\u\[\e[m\]@\[\e[32m\]\h\[\e[m\]:\[\e[31m\]\w\[\e[m\]$ "
 ```
