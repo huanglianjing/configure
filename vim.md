@@ -20,6 +20,9 @@ set list
 set listchars=tab:>-,trail:-
 set shortmess=atI
 set backspace=indent,eol,start
+if &diff
+    colors blue
+endif
 ```
 
 
