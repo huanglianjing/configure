@@ -1,4 +1,5 @@
 Add to **/etc/vim/vimrc** for all user, or **~/.vimrc** for current user:
+
 ```
 syntax on
 set number
@@ -29,6 +30,7 @@ endif
 
 For root user, the configuration may not work. It's because it only apply to vim but not vi.
 Need to add this to **~/.bashrc** and reopen terminal:
-```
+
+```bash
 alias vi='vim'
 ```
