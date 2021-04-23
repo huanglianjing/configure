@@ -1,4 +1,4 @@
-```
+```json
 {
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"drag_text": false,
