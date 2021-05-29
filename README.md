@@ -4,8 +4,8 @@
 
 Configuration I used:
 
-* [bash](bash.md)
-* [vim](vim.md)
-* [sublime_text](sublime_text.md)
-* [mysql](mysql.md)
+* [bash](config/bash.md)
+* [mysql](config/mysql.md)
+* [sublime_text](config/sublime_text.md)
+* [vim](config/vim.md)
 
