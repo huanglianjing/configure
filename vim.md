@@ -34,3 +34,4 @@ Need to add this to **~/.bashrc** and reopen terminal:
 ```bash
 alias vi='vim'
 ```
+

@@ -12,3 +12,4 @@ function git-branch {
 }
 export PS1="\[\e[32m\]\u\[\e[m\]@\[\e[32m\]\h\[\e[m\]:\[\e[31m\]\w\[\e[m\]\[\e[32m\]\$(git-branch)\[\e[m\]$ "
 ```
+
