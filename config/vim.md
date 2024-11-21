@@ -1,7 +1,12 @@
-Add to **/etc/vim/vimrc** for all user, or **~/.vimrc** for current user:
+应用到当前用户：添加配置到 ~/.vimrc
+
+应用到所有用户：添加配置到 /etc/vim/vimrc
+
+
+
+配置
 
 ```
-syntax on
 set number
 set nocompatible
 set showcmd
@@ -24,14 +29,5 @@ set backspace=indent,eol,start
 if &diff
     colors blue
 endif
-```
-
-
-
-For root user, the configuration may not work. It's because it only apply to vim but not vi.
-Need to add this to **~/.bashrc** and reopen terminal:
-
-```bash
-alias vi='vim'
 ```
 

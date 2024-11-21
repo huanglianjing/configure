@@ -8,4 +8,5 @@ Configuration I used:
 * [mysql](config/mysql.md)
 * [sublime_text](config/sublime_text.md)
 * [vim](config/vim.md)
+* [Linux](config/Linux.md)
 
